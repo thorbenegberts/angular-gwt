@@ -1,0 +1,3 @@
+[submodule "angular-gwt-sub"]
+	path = angular-gwt-sub
+	url = git@github.com:thorbenegberts/angular-gwt-sub.git
